@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Ali Shahverdi
+bio: I Had This Dream Our Planet Surviving
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,8 +16,8 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
-# your url: https://USERNAME.github.io
+# url: https://sergiokopplin.github.io/indigo
+url: https://akbar30bill.github.io
 
 permalink: /:title/
 
@@ -29,28 +29,28 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+# disqus:
+#   shortname: mydisqus # enter this from your disqus account
+#   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+# facebook: myfacebook
+twitter: akbar30bill
+instagram: akbar30bill
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: ali-shahverdi-76358b47
 # youtube: myyoutube
-# spotify: myspotify
-github: mygithub
-# gitlab: mygitlab
+spotify: su9jqsgce5c861rktibny5qyy?si=3xzy82DzRcuT04mAwXvqTQ
+github: akbar30bill
+gitlab: akbar30bill
 # lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 9860072/akbar30bill
 # quora: userquora
-# reddit: username
-medium: medium
+reddit: akbar30bill
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: me@alishahverdi.com
 
 authors:
   johndoe:
